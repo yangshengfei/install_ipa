@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>[Icon地址]</string>
+            <string>http://htwater.net:8080/SmartWaterWeb/58.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>[Icon地址]</string>
+            <string>http://htwater.net:8080/SmartWaterWeb/58.png</string>
           </dict>
         </array>
         <key>metadata</key>
