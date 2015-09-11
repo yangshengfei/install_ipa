@@ -33,13 +33,13 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.yang.smartwater</string>
+          <string>com.yang.smartwaterForcom</string>
           <key>bundle-version</key>
-          <string>1.1.7</string>
+          <string>2.1.6</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string></string>
+          <string>byYangSF</string>
           <key>title</key>
           <string>宁波智慧防汛</string>
         </dict>
